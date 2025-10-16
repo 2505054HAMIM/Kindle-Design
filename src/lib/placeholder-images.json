@@ -1,3 +1,76 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "cover-1",
+      "description": "Fantasy book cover with a mystical forest",
+      "imageUrl": "https://picsum.photos/seed/1/400/600",
+      "imageHint": "book cover"
+    },
+    {
+      "id": "cover-2",
+      "description": "Science fiction book cover with a spaceship near a planet",
+      "imageUrl": "https://picsum.photos/seed/2/400/600",
+      "imageHint": "book cover"
+    },
+    {
+      "id": "cover-3",
+      "description": "Romance book cover with a couple in a historical setting",
+      "imageUrl": "https://picsum.photos/seed/3/400/600",
+      "imageHint": "book cover"
+    },
+    {
+      "id": "cover-4",
+      "description": "Mystery book cover with a detective in a dark alley",
+      "imageUrl": "https://picsum.photos/seed/4/400/600",
+      "imageHint": "book cover"
+    },
+    {
+      "id": "cover-5",
+      "description": "Thriller book cover with an intense action scene",
+      "imageUrl": "https://picsum.photos/seed/5/400/600",
+      "imageHint": "book cover"
+    },
+    {
+      "id": "cover-6",
+      "description": "Fiction book cover with a serene landscape",
+      "imageUrl": "https://picsum.photos/seed/6/400/600",
+      "imageHint": "book cover"
+    },
+    {
+      "id": "cover-7",
+      "description": "Mystery book cover with a victorian theme",
+      "imageUrl": "https://picsum.photos/seed/7/400/600",
+      "imageHint": "book cover"
+    },
+    {
+      "id": "cover-8",
+      "description": "Fantasy book cover featuring a dragon",
+      "imageUrl": "https://picsum.photos/seed/8/400/600",
+      "imageHint": "book cover"
+    },
+    {
+      "id": "cover-9",
+      "description": "Science fiction book cover with a futuristic city",
+      "imageUrl": "https://picsum.photos/seed/9/400/600",
+      "imageHint": "book cover"
+    },
+    {
+      "id": "cover-10",
+      "description": "Romance book cover with a couple in a field of flowers",
+      "imageUrl": "https://picsum.photos/seed/10/400/600",
+      "imageHint": "book cover"
+    },
+    {
+      "id": "cover-11",
+      "description": "Thriller book cover with a psychological theme",
+      "imageUrl": "https://picsum.photos/seed/11/400/600",
+      "imageHint": "book cover"
+    },
+    {
+      "id": "cover-12",
+      "description": "Fiction book cover with a library setting",
+      "imageUrl": "https://picsum.photos/seed/12/400/600",
+      "imageHint": "book cover"
+    }
+  ]
 }
